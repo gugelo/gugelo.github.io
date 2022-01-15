@@ -1,0 +1,7 @@
+User-agent: *
+Disallow: /some-path/
+
+
+
+Sitemap: https://gugelo.github.io/sitemap.xml
+Sitemap: https://gugelo.github.io/hasil.xml
